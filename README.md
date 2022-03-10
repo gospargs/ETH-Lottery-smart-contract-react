@@ -1,3 +1,6 @@
+# About
+A very basic react app built for the purpose of connecting to a web3 Smart Contract deployed on the Ethereum Rinkeby testnet
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
